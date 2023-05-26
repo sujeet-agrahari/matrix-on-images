@@ -1,0 +1,23 @@
+{
+  "name": "matrix-on-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotate-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeet-agrahari/matrix-on-images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujeet-agrahari/matrix-on-images/issues"
+  },
+  "homepage": "https://github.com/sujeet-agrahari/matrix-on-images#readme",
+  "dependencies": {
+    "jimp": "^0.22.7"
+  }
+}
